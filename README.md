@@ -13,3 +13,6 @@ https://gist.github.com/keba/de2e2f020ccfa90f141f43eeeb96322e
 
 Utility - Wait for a specific number of milliseconds in an ES7 friendly manner: `utility.wait.js`
 https://gist.github.com/keba/d56fd28564d349b3fbe4e00779137f9f
+
+Utility - Making exec and spawn from child_process used with async/await
+https://gist.github.com/keba/3ec98c92298b5671a60956acf3f71a67
