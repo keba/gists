@@ -26,3 +26,8 @@ https://gist.github.com/keba/d56fd28564d349b3fbe4e00779137f9f
 Utility - Making exec and spawn from child_process used with async/await
 
 https://gist.github.com/keba/3ec98c92298b5671a60956acf3f71a67
+
+
+Utility - figure out what is different when using assert.deepStrictEqual and looking at the error inside a try/catch
+
+https://gist.github.com/keba/112f9da1ce77c95c062e72066d79ba3c
