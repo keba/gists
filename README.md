@@ -3,6 +3,11 @@ A listing of my gists
 
 ### the gists:
 
+Utility - Using luxon, return a sensible time remaining string by comparing the current time to a diff object: `utility.timeRemaining.js`
+
+https://gist.github.com/keba/10daa65fec3c3d37252cde9b9910f4b2
+
+
 Utility - Turn a JSON non-array object into an array of objects: `utility.objectIntoArray.js`
 
 https://gist.github.com/keba/9d8655ad0ea41c3488aabf0b510ed800
