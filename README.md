@@ -3,6 +3,11 @@ A listing of my gists
 
 ### the gists:
 
+Utility - Utility - exposes uuid and ulid as cached (for 1 hour) functionality using UUID v6. Allows for uuid's to be shown as ulid's as needed
+
+https://gist.github.com/keba/27a45c982c7fbecb7e850dd68b3660c4
+
+
 Utility - Using luxon, return a sensible time remaining string by comparing the current time to a diff object: `utility.timeRemaining.js`
 
 https://gist.github.com/keba/10daa65fec3c3d37252cde9b9910f4b2
